@@ -1,0 +1,27 @@
+
+body {
+  bs-5 background-color;
+}
+
+/* Header styles */
+.jumbotron {
+  background-color: #1e4a75;
+  color: #fff;
+  padding: 80px 0;
+}
+
+/* Footer styles */
+.footer {
+  background-color: #343a40;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.footer span {
+  font-size: 14px;
+}
+.img{
+  width: 100px;
+  height: 100px;
+
+}
